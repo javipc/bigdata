@@ -1,2 +1,2 @@
 # bigdata
-Información big data y nuestras tecnologías centradas en el dato
+Información big data y nuevas tecnologías centradas en el dato
