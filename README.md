@@ -6,6 +6,7 @@
 <h4><font color="green">La página está siendo modificada .... próximamente estará de nuevo disponible</font></h4>
 --------------------------------------------------------------------------------------<br>
 
+
 1) Big Data Analytics<br>
 2) Blockchain<br>
 
